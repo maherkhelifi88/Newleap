@@ -15,17 +15,17 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                   UX Engineering Studio.
+                   AI UX Research boutique
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                Carefully refine, thoughtfully design, and meticulously test your innovative ideas. We are here to assist you every step of the way in building and bringing your creative visions to life.
+                Your UX Research partner in creating new AI products
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="/"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    Get Started Now
+                    Get in touch
                   </Link>
                   <Link
                     href="/"
